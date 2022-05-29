@@ -79,20 +79,10 @@ button:hover{
     border-radius: 20px;
 }
 
-#Report div{
-    margin: 10px;
-    padding: 20px;
- display: inline;
- align-items: center;
-}
 
-#Report div{
-    margin: 10px;
 
-}
+#Report p {
+    font-family:"Arimo",sans-serif;
+    font-weight: 500;
 
-#nb {
-    height: 50px;
-    width: 50px;
-    margin: 10px;
 }
